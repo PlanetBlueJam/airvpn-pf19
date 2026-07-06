@@ -1,4 +1,4 @@
-
+professional OVPN Client | auto-connect + no-logs-policy offers the most advanced OVPN client, with auto-connect and no-logs-policy. Ideal for users who value privacy and security.
 
 
 
